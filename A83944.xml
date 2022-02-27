@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England know thy drivers, and their driver: or, Democritus natu minimus laughing at the epidemical phrensie of his own nation being so overwhelmed in iniquity, and stupidity, and so hoodwinked by the snares, and slights of its artificial, and pernitious drivers, that it discerneth not in their subtile machinations the indignation of the cheif [sic], omniscient, and omnipotent driver. Whereby England may bee advertised to avoid, and beat back the smart-lash of some of those drivers upon themselves, to whom it is most proper, and thereby may appease the wrath of the cheif [sic] driver.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83944</idno>
+            <idno type="STC">Wing E2934</idno>
+            <idno type="STC">Thomason E402_20</idno>
+            <idno type="STC">Thomason E410_8</idno>
+            <idno type="STC">ESTC R201829</idno>
+            <idno type="EEBO-CITATION">99862320</idno>
+            <idno type="PROQUEST">99862320</idno>
+            <idno type="VID">161208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161208)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[20] or 65:E410[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England know thy drivers, and their driver: or, Democritus natu minimus laughing at the epidemical phrensie of his own nation being so overwhelmed in iniquity, and stupidity, and so hoodwinked by the snares, and slights of its artificial, and pernitious drivers, that it discerneth not in their subtile machinations the indignation of the cheif [sic], omniscient, and omnipotent driver. Whereby England may bee advertised to avoid, and beat back the smart-lash of some of those drivers upon themselves, to whom it is most proper, and thereby may appease the wrath of the cheif [sic] driver.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.L.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: copy at E.402[20]: "Aug: 18"; copy at E.410[8]: "8ber [i.e. October] 7th".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161208:1" rendition="simple:additions"/>
+            <p>ENGLAND Know thy Drivers, and their Driver: OR, <hi>DEMOCRITUS NATU MINIMUS</hi> Laughing at the epidemical Phrenſie of his own Nation being ſo overwhelmed in Iniquity, and Stupi<g ref="char:EOLhyphen"/>dity, and ſo hoodwinked by the ſnares, and ſlights of its artificial, and pernitious Drivers, that it diſcerneth not in their ſubtile machinations the in<g ref="char:EOLhyphen"/>dignation of the cheif, omniſcient, and omnipotent Driver.</p>
+            <p>Whereby ENGLAND may bee advertiſed to avoid, and beat back the <hi>Smart-Laſh</hi> of ſome of thoſe Drivers upon themſelves, to whom it is moſt proper, and thereby may appeaſe the wrath of the cheif Driver.</p>
+            <q>
+               <bibl>Proverbs 16. 4, 5, 6.</bibl>
+               <p>The Lord hath made al things for his own ſake, yea, even the wicked for the day of evil.</p>
+               <p>Al that are proud in heart, are an abomination to the Lord, though hand joyn in hand, hee ſhal not bee unpuniſhed.</p>
+               <p>By mercy, and truth iniquity ſhal bee forgiven.</p>
+            </q>
+            <q>
+               <bibl>Iames 2. 14.</bibl>
+               <p>For there ſhal bee judgement merciles to him that ſheweth no mercy, and mercy rejoyceth againſt judgement.</p>
+            </q>
+            <p>LONDON, Printed for <hi>J. L.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161208:2"/>
+            <pb n="1" facs="tcp:161208:2"/>
+            <head>ENGLAND <hi>Know thy Drivers, and their Driver, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>EMOCCITVS a Philoſopher living in a City called <hi>Abdera</hi> in the time of <hi>Hy<g ref="char:EOLhyphen"/>pocrates</hi> a learned Phyſitian frequently accuſtomed to repaire to the concourſes and meetings of the <hi>Abderites,</hi> and pro<g ref="char:EOLhyphen"/>fuſely to laugh at their madnes. <hi>Democri<g ref="char:EOLhyphen"/>tus juntor</hi> a learned both Divine, and Phi<g ref="char:EOLhyphen"/>loſopher in this preſent age writ an elaborate, and copious Tract called <hi>The Anatomy of Melancholy</hi> therein demonſtra<g ref="char:EOLhyphen"/>ting the Cauſes, Symptomes, and proper Cures thereof. Now in the third place commeth <hi>Democritus naru minimus,</hi> neither Philoſopher, nor Divine, but a cri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>call obſerver of Times and Perſons, and a diligent ſearcher of holy Scrip<g ref="char:EOLhyphen"/>tures, one, who, as a calm, humble and charitable Chriſtian would gladly bee his Countries Phyſitian, and for that cauſe will endeavour, though hee be for his labour eſteemed a mad man, as <hi>Democritus</hi> was by the <hi>Abderites,</hi> to laugh his Nati<g ref="char:EOLhyphen"/>on out of its Epidemicall phrenſie. But if our Engliſh <hi>Ab<g ref="char:EOLhyphen"/>derites</hi> take pitty on mee and ſend ſome wiſe and earned <hi>Hy<g ref="char:EOLhyphen"/>pocrates</hi> to cure me, I am confident after hee hath read this Paper, hee will vindicate mee, and conclude that they them<g ref="char:EOLhyphen"/>ſelves are ſicke of a Phrenſie. If <hi>Democritus</hi> had lived in our age, hee needed not have gone among the vulgar mul<g ref="char:EOLhyphen"/>titude
+<pb n="2" facs="tcp:161208:3"/> to have made himſelf mery; hee might have gone in<g ref="char:EOLhyphen"/>to the Court, into the Capitoll, and beheld the diſturbers of the Parliament, and violaters of the Covenant made with, and before GOD; into the Synod, and beheld the Brethren diſſenting; among the griping Committees, if there bee ſuch; among the holy anarchicall confuſed Libertines where<g ref="char:EOLhyphen"/>ſoever incorporate, or not incorporate in the Kingdome; in the very ſtreets hee might behold Drunkards, and Men, and Women attired like Anticks, and Stage-players, and have too much cauſe of laughter.</p>
+            <p>He might ſee hypocritical Zelots profeſſing to be religious.</p>
+            <p>Hee might behold men luke-warme in religion, whom GOD hath threat'ned to ſpew out of his mouth.</p>
+            <p>Hee might ſee ſuperſtitious Idolaters bewitched with An<g ref="char:EOLhyphen"/>tichriſtianiſme.</p>
+            <p>Hee might ſee ſome of the Angels of the Churches forſa<g ref="char:EOLhyphen"/>king their firſt love, ready to returne to the Onions of <hi>Egypt.</hi>
+            </p>
+            <p>Hee might ſee many <hi>Ahabs</hi> thirſting after <hi>Naboths</hi> their neighbours Paſtures, and fields, and houſes.</p>
+            <p>Hee might ſee deſpightfull Furies broaching bitter quar<g ref="char:EOLhyphen"/>rels amongſt Chriſtians, hee might ſee Blaſphemers of God, prophaners of his Sabboths, Fornicators, Adulterers, laſcivi<g ref="char:EOLhyphen"/>ous riotous Prodigals.</p>
+            <p>He might ſee Envious men, Backbiters, Detractors, brea<g ref="char:EOLhyphen"/>kers of Promiſes, detainers of Laborers wages, uncharitable cruell Oppreſſors, perfidious, and treacherous Friends.</p>
+            <p>Hee might ſee <hi>Demetrius,</hi> and the Craftſmen for the Tem<g ref="char:EOLhyphen"/>ple of <hi>Diana's</hi> ſeeke their owne gaine, crying, and beating downe works of Piety, Mercy, and Charity.</p>
+            <p>Hee might ſee our diſtracted Diviſions and Factions ari<g ref="char:EOLhyphen"/>ſing meerly out of Pride, and ſingularity the daughter of Co<g ref="char:EOLhyphen"/>vetouſneſſe which is Idolatry, one emulating to bee <hi>Paul,</hi> another to be <hi>Cephas,</hi> a third to bee <hi>Apollo,</hi> every one of them affecting fame and popularity, and ſtriving to effect Parity, that each might gather unto himſelf multitudes of Diſciples, and ſo procure much Contribution to the Saints, thereby to
+<pb n="3" facs="tcp:161208:3"/> make the coffers and treaſurie of the Saints himſelfe opulent.</p>
+            <p>He might heretofore have ſeen the hands of corrupt Iudges, and Magiſtrates full of Bribes, ready to receive a payre of ſhoots, a basket of Chickens, a morſell of Bread to pervert Iu<g ref="char:EOLhyphen"/>ſtice, and as on the bench, ſo at the bar, falſe unfaithfull plea<g ref="char:EOLhyphen"/>ders, ſiding hyred perjured aretopagites, and witneſſes.</p>
+            <p>But let them ſtand or fall to their own Maſter. What are all theſe to our ſubject, thoſe artificiall drivers, (that have gotten a <hi>Smart-Laſh</hi> to drive a whole hoſt of men with counterfeit pre<g ref="char:EOLhyphen"/>tences of a wonderfull ſpirit raiſed for Iuſtice and Righteouſ<g ref="char:EOLhyphen"/>neſſe, and by them to drive a Parliament and a whole Nation even againſt God and <hi>Chriſt</hi>) thoſe unclean ſpirits like Frogs comming out of the mouth of the Dragon, of the beaſt, of the falſe Prophet, who were and are the ſpirits of Devils working miracles to go unto the Kings of the earth, and of the whole World to gather them to the battaile of the great day of God Almighty mentioned in the <hi>Revelations,</hi> 16. 13, 14. Who had well nigh driven three Kingdomes to perdition by the extirpa<g ref="char:EOLhyphen"/>tion and ſubverſion of Religion, Law, and the liberty of the Subject, and their due right by the ancient eſtabliſhed Lawes of the Nation, not that imaginary fantaſticall <hi>Vtopian</hi> pretended Chriſtian liberty framed out of the ſingularity, and pride of ſome ſpiritually high-minded men puffed up with the ſpirit of <hi>Peter,</hi> who having undertaken to dye with <hi>Chriſt,</hi> did not only fall into a ſleep when <hi>Chriſt</hi> required him to watch one houre, but alſo denyed, and forſwore his Maſter <hi>Chriſt</hi> three times before the cock crowed once.</p>
+            <p>Theſe are the ſecond artificiall drivers, who drive to the ſame end of <hi>Englands</hi> confuſion with the firſt, but by ſeverall wayes like <hi>Sampſons</hi> foxes tyed by the tayles. But before I tell theſe ſecond drivers why I laugh at them, I will end with the firſt. Thoſe unclean Spirits like Frogs working miracles have manifeſted to the world in theſe our dayes the exquiſite with incomparable policy contrived plots and Treaſons; firſt in their ſecret and clandeſtine practiſes to butcher, and murder many of our late ſeverall Kings, and Princes; ſecond<g ref="char:EOLhyphen"/>ly, in the twinkling of an eye ſo ſoon as a little piece of Paper would be burned, to have deſtroyed all the Nobility and chief
+<pb n="4" facs="tcp:161208:4"/> Gentry of our Nation, and to have conſumed by fire, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um<g ref="char:EOLhyphen"/>bled, or mouldred into duſt, all the memorable records, and antiquities preſerved for the honour of our Nation; thirdly, in contempt of our ſtrict capital and fatall Lawes againſt them, in creeping into the higheſt and moſt eminent places in the Kingdome, both Eccleſiaſticall and Civill, thereby annulling our Lawes, and introducing an arbitrary power, and rule of government at their ripened opportunities, to have exalted the ſupremacy of that Dragon, beaſt, and falſe Prophet, out of whoſe mouth they came, and without any noiſe, or power to oppoſe them, to have changed our (new, as they terme it) true reformed Religion into a falſe, Idolatrous, and Superſtiti<g ref="char:EOLhyphen"/>ons. And if any of our Gentry have entred ſo far into their ſecrets, and orders, worſhipping that beaſt, having his marke, couch themſelves in the number of the Patriarchs of their Country, or in the number of the Clergy, pretenders to purity of divine Worſhip, and having brought in one Mr. <hi>Oglethorp</hi> among diſſenting Brethren under another name, by their cloſe conveyances, ſubtile inſinuations, and arguments, and prag<g ref="char:EOLhyphen"/>maticall poſitive opinions, Dogmates, and Votes, do retard, ob<g ref="char:EOLhyphen"/>ſtruct, and hinder the reconciliation of King, and Parliam. and therby the ſettlement of the peace of the Church, and kingdom (which without the King cannot bee, for no King no Law; no Law, no Peace; no Peace, no Truth; <hi>et é converſo,</hi> no Truth, no Peace; no Peace, no Law; no Law, no King) and craf<g ref="char:EOLhyphen"/>tily, wickedly, and trayterouſly oppoſe and hinder the par<g ref="char:EOLhyphen"/>formance of the nationall Covenant made with God touch<g ref="char:EOLhyphen"/>ing the King, labouring either to impriſon, or dethrone him, are they not worthy to bee laughed at, when being learned Politicians, and having ſublime <hi>Mercurian</hi> wits they neither diſcerne our Kings many, and maruellous deliverances from their Treaſons, nor that that beaſt, Dragon, and falſe Prophe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of whoſe mouth they came is the very Antichriſt their ho<g ref="char:EOLhyphen"/>ly Hierarchy, nor that they themſelves are thoſe unclean ſpirits like frogs, the ſpirits of Divels, nor that their plots, policies, and diveliſh Treaſons are thoſe miracles, nor that they muſt go to the Kings of the earth, and of the whole world, to gather them to the battail of the great day of God almighty, no other<g ref="char:EOLhyphen"/>wiſe
+<pb n="5" facs="tcp:161208:4"/> then as Gods Miniſters and ſervants for the execution of his wrath and vengeance; as <hi>Nebuchadnezzar</hi> King of <hi>Ba<g ref="char:EOLhyphen"/>bel</hi> was, as <hi>Jeremiah</hi> 15. 9. &amp; 43. 10. Whom afterwards o<g ref="char:EOLhyphen"/>ther Kings brought into ſubjection, as <hi>Ieremiah</hi> 25. 14. Or as <hi>Pharoah</hi> was, whoſe hart God for his own glory hardened, as in the hiſtory of him in <hi>Exodus,</hi> nor that without Repen<g ref="char:EOLhyphen"/>tance they muſt go into the bottomleſſe pit, the place of the damned. And are not they more worthy to be laughed at, who after fruſtration of their manifold deſperate, miſcheivous, trai<g ref="char:EOLhyphen"/>terous, diabolicall deſignes, more then the plagues of <hi>Aegypt,</hi> againſt the tranquillity and happines of our Nation and Princes, and after ours, and our Princes miraculous deliver<g ref="char:EOLhyphen"/>ances from them, yet ſtill perſiſt and proceed in their <hi>Machi<g ref="char:EOLhyphen"/>avellian</hi> deviſes, and enterpriſes, nothing aſtoniſhed or moved at the mighty power and providence of God in their former failings. <hi>Democritus</hi> will only merily put them in mind how ſome of their late predeceſſors, who drove as cloſely, politick<g ref="char:EOLhyphen"/>ly, artificially, and furiouſly as they now do, or can do, and had almoſt driven to their journeyes end, concluded with hemp and hatchet, and hee laughing hartily expecteth their like concluſion.</p>
+            <p>Now for our <hi>Vtopian</hi> liberty drivers, who drive cunningly and fiercely, for breach of Covenant, extirpation of Law, order, and government, pretending notwithſtanding to be Patriots of their Country, and Zealots in the Church, I will confident<g ref="char:EOLhyphen"/>ly laugh at them, becauſe I well know that God is the God of order, not of confuſion, and that it is evident by holy writ, that in the laſt times hee will have nationall churches of the Gentiles, and their Kings, as may appeare in <hi>Iſa. 60. 3, 5, 10. 11, 16. &amp; Rev.</hi> 21. 24, 26. And that he will have the Kingdomes of this World to be his, and his <hi>Chriſts;</hi> as is manifeſt <hi>Rev.</hi> 11. 15. And what are Kingdomes? Are they not Dominions, and governments? Who can forbeare to laugh at theſe dri<g ref="char:EOLhyphen"/>vers, whoſe holy zeale paſſeth over, ſlighteth or waveth theſe Scriptures, and driveth even againſt Gods Providence, Decree, and purpoſe, and contemneth the threats of his ven<g ref="char:EOLhyphen"/>geance againſt breakers of Covenant made before him, pro<g ref="char:EOLhyphen"/>nounced by the mouth of <hi>Ieremiah</hi> 34. 17, 18, 19, 20. See the
+<pb n="6" facs="tcp:161208:5"/> words in the Bible, that <hi>Democritus</hi> may laugh in no more ſheets then the <hi>Mercuries,</hi> and other <hi>Pamphletters</hi> uſe to lye in, and to write Libels, and Treaſon in. Were theſe threats denou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced only againſt the <hi>Princes, Prieſts,</hi> and <hi>People</hi> of <hi>Ju<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th</hi> and <hi>Ieruſalem,</hi> and not againſt <hi>Englands</hi> and the whole earths <hi>Princes, Prieſts</hi> and <hi>People</hi> alſo? <hi>Democritus</hi> reſolveth to laugh profuſely at all them, who be obnoxious to this curſe, if they wilfully periſh thereby, and will tell them, <hi>humani mores fingunt ſibi fortunam,</hi> their deſtruction is of themſelves. But he hopeth that God in mercy will ſpare the Nation for the ſake of that part thereof, whoſe harts have not yeelded to that pre<g ref="char:EOLhyphen"/>ſumptuous horrid ſin of perjury, and will not execute his pre<g ref="char:EOLhyphen"/>dicted vengeance of <hi>Vae perjurae genti,</hi> Woe to a perjured Na<g ref="char:EOLhyphen"/>tion! and therefore waving all laughter <hi>Democritus</hi> will cloſe with a ſhort, but ſerious queſtion to this Nation.</p>
+            <lg>
+               <l>
+                  <hi>Anglia pro Votis Violans quadrata rotundis.</hi>
+               </l>
+               <l>
+                  <hi>Mole ſua aerumnis ruet inſenſata profundis?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From ſenſe will <hi>England</hi> ſo it ſelfe eſtrange,</l>
+               <l>As ſound well ſquared Vowes for round to change?</l>
+               <l>And by its own weight, policy, and ſtrength,</l>
+               <l>In deadly miſchiefs plunge it ſelfe at length?</l>
+            </lg>
+            <p>
+               <hi>Democritus</hi> might behold, and conſider our Faſts for diſtreſ<g ref="char:EOLhyphen"/>ſed Proteſtants in <hi>Ireland</hi> and might laugh at them as mocke<g ref="char:EOLhyphen"/>ry, when theſe drivers are the means to hinder and keep back competent ſupply and reliefe from them, nay how can any man conſidering it forbeare to laugh, if withall he read <hi>Iſaiah 58. 5, 6, 7. &amp; 1. 15. 16, 17. &amp; Zech.</hi> 7.</p>
+            <p>Many other ſubjects of laughter there bee, but cannot bee laughed out in one ſheet, neither need we laugh at our ſelves, Forraigne Nations laugh ſo much at us, painting us upon their Wals with a Bible in left-hand, and right hand in neighbours pocket.</p>
+            <epigraph>
+               <q>Vide teipſum, irride teipſum.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
